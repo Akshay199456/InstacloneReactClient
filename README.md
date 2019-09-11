@@ -2,6 +2,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Server running on localhost:3000
 
+Running the React server is easier. Once you have 'npm' installed (instructions in README.md of express-server) and are in the instaclone folder, run 'npm install' to install the dependencies mentioned in the package.json file. Finally, run 'npm start' to launch the react server. This will where any front-end code will be visible to the user.
+
+
+
+
+-------------------------------------------
+
 ## Available Scripts
 
 In the project directory, you can run:
